@@ -1,0 +1,13 @@
+linux/chainboard
+linux/chainboard-pie
+windows/*.exe
+*.o
+
+blockdata.bin
+blockdata.bak
+core
+core.*
+*.core
+
+__pycache__/
+.DS_Store
